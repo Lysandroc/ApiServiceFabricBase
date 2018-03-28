@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="fabric:/ENG_RT_SERVICEFABRIC_BASE" xmlns="http://schemas.microsoft.com/2011/01/fabric">
+  <Parameters>
+    <Parameter Name="BaseService_InstanceCount" Value="1" />
+    <Parameter Name="ApiBase_InstanceCount" Value="1" />
+  </Parameters>
+</Application>
